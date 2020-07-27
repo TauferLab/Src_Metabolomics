@@ -1,0 +1,35 @@
+{
+    "description": "No description provided.", 
+    "license": "other-open", 
+    "title": "TauferLab/Src_Metabolomics: Initial Release", 
+    "version": "v1.0", 
+    "upload_type": "software", 
+    "publication_date": "2020-07-27", 
+    "creators": [
+        {
+            "name": "Michael Wyatt"
+        },
+        {
+            "name": "Nicholas Mucci"
+        },
+        {
+            "name": "Heidi Goodrich-Blair"
+        },
+        {
+            "name": "Michela Taufer"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/TauferLab/Src_Metabolomics/tree/v1.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.3962080", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
